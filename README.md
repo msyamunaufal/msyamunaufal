@@ -15,4 +15,6 @@ Hello Lads🙌, My name is Muhammad Syamu Naufal<br>I’m as a Student of Inform
 ---
 [![](https://visitcount.itsvg.in/api?id=msyamunaufal&icon=4&color=12)](https://visitcount.itsvg.in)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmsyamunaufal&label=VISITOR&labelColor=%23ffc0cb&countColor=%23000000&style=plastic&labelStyle=upper)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
