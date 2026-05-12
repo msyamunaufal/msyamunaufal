@@ -12,6 +12,8 @@ Hello Lads🙌, My name is Muhammad Syamu Naufal<br>I’m as a Student of Inform
 ![](https://nirzak-streak-stats.vercel.app/?user=msyamunaufal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msyamunaufal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msyamunaufal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=msyamunaufal&icon=4&color=12)](https://visitcount.itsvg.in)
 
